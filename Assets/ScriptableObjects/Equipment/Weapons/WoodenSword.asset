@@ -1,0 +1,41 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d40859132fbb40e479592b0a4b03178d, type: 3}
+  m_Name: WoodenSword
+  m_EditorClassIdentifier: 
+  itemType: 1
+  itemName: Wooden Sword
+  icon: {fileID: -1964759456, guid: 4110066385167e0428e26de445198a7e, type: 3}
+  itemID: f28d3c6c280b9a14abe602bb27fe3aa3
+  dropChance: 30
+  equipmentType: 0
+  itemEffects: []
+  itemCooldown: 0
+  itemEffectDescription: 
+  strength: 1
+  agility: 0
+  intelligence: 0
+  vitality: 0
+  damage: 7
+  critChance: 0
+  critPower: 0
+  health: 0
+  armour: 0
+  evasion: 3
+  magicResistance: 0
+  fireDamage: 0
+  iceDamage: 0
+  lightningDamage: 0
+  elementalChance: 0
+  craftingMaterials:
+  - itemData: {fileID: 11400000, guid: 9de27088fc997ab4ea56da5f589c4b8c, type: 2}
+    stackSize: 2

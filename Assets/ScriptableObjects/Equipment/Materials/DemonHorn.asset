@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6b25eeed500854c4d944d8827c1f6650, type: 3}
+  m_Name: DemonHorn
+  m_EditorClassIdentifier: 
+  itemType: 0
+  itemName: Demon Horn
+  icon: {fileID: 1279226947, guid: f80fab052b3c5724290b03eff2f9e882, type: 3}
+  itemID: 0dee7b42710d4104cb86b8037725ad15
+  dropChance: 100

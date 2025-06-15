@@ -1,0 +1,43 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d40859132fbb40e479592b0a4b03178d, type: 3}
+  m_Name: LeatherArmour
+  m_EditorClassIdentifier: 
+  itemType: 1
+  itemName: Leather Armour
+  icon: {fileID: -1003583761, guid: a40590337e5064c468a85eb63abada41, type: 3}
+  itemID: 98099e2cf0c32844ea6916c36cc5ea69
+  dropChance: 20
+  equipmentType: 1
+  itemEffects: []
+  itemCooldown: 0
+  itemEffectDescription: 
+  strength: 0
+  agility: 2
+  intelligence: 0
+  vitality: 3
+  damage: 0
+  critChance: 0
+  critPower: 0
+  health: 10
+  armour: 10
+  evasion: 0
+  magicResistance: 0
+  fireDamage: 0
+  iceDamage: 0
+  lightningDamage: 0
+  elementalChance: 3
+  craftingMaterials:
+  - itemData: {fileID: 11400000, guid: 0dee7b42710d4104cb86b8037725ad15, type: 2}
+    stackSize: 1
+  - itemData: {fileID: 11400000, guid: 9de27088fc997ab4ea56da5f589c4b8c, type: 2}
+    stackSize: 2

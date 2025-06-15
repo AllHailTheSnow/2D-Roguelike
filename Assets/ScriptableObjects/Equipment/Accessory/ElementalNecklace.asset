@@ -1,0 +1,45 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d40859132fbb40e479592b0a4b03178d, type: 3}
+  m_Name: ElementalNecklace
+  m_EditorClassIdentifier: 
+  itemType: 1
+  itemName: Necklace of Elementals
+  icon: {fileID: 63431269, guid: c4cb6789ee75a1547b4d315c428faf5f, type: 3}
+  itemID: 9dee6721831582342b9bed6a2cfac58a
+  dropChance: 57
+  equipmentType: 2
+  itemEffects: []
+  itemCooldown: 0
+  itemEffectDescription: 
+  strength: 0
+  agility: 0
+  intelligence: 0
+  vitality: 0
+  damage: 0
+  critChance: 0
+  critPower: 0
+  health: 0
+  armour: 0
+  evasion: 0
+  magicResistance: 0
+  fireDamage: 0
+  iceDamage: 0
+  lightningDamage: 0
+  elementalChance: 20
+  craftingMaterials:
+  - itemData: {fileID: 11400000, guid: 0fcf5f3cf6d0bc64d867875b5b5bb122, type: 2}
+    stackSize: 1
+  - itemData: {fileID: 11400000, guid: 7bfe5982a7b064046b9c0a053b80471e, type: 2}
+    stackSize: 1
+  - itemData: {fileID: 11400000, guid: 6c212f844eff82b48acd645a5fb930a7, type: 2}
+    stackSize: 3

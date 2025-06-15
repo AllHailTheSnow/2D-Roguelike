@@ -1,0 +1,46 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d40859132fbb40e479592b0a4b03178d, type: 3}
+  m_Name: IceFlask
+  m_EditorClassIdentifier: 
+  itemType: 1
+  itemName: Ice Flask
+  icon: {fileID: -132116620, guid: 6a51c15edcaf5f541bd98f9d113bb3d8, type: 3}
+  itemID: 38e88e780bd9b38478bfcac0d6cfbb54
+  dropChance: 0
+  equipmentType: 3
+  itemEffects:
+  - {fileID: 11400000, guid: 14a343c7e1e995246b8d01923374791d, type: 2}
+  itemCooldown: 60
+  itemEffectDescription: Increase Ice damage by 15 for 30 seconds - 60s cooldown
+  strength: 0
+  agility: 0
+  intelligence: 0
+  vitality: 0
+  damage: 0
+  critChance: 0
+  critPower: 0
+  health: 0
+  armour: 0
+  evasion: 0
+  magicResistance: 0
+  fireDamage: 0
+  iceDamage: 0
+  lightningDamage: 0
+  elementalChance: 0
+  craftingMaterials:
+  - itemData: {fileID: 11400000, guid: 0fcf5f3cf6d0bc64d867875b5b5bb122, type: 2}
+    stackSize: 1
+  - itemData: {fileID: 11400000, guid: 6c212f844eff82b48acd645a5fb930a7, type: 2}
+    stackSize: 3
+  - itemData: {fileID: 11400000, guid: 191d90088fd3e81409f0f2d86f486786, type: 2}
+    stackSize: 1

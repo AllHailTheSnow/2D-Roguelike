@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6b25eeed500854c4d944d8827c1f6650, type: 3}
+  m_Name: Diamond
+  m_EditorClassIdentifier: 
+  itemType: 0
+  itemName: Diamond
+  icon: {fileID: 489014330, guid: f613caca40849414a9f6c2d1e80da36e, type: 3}
+  itemID: 0fcf5f3cf6d0bc64d867875b5b5bb122
+  dropChance: 100

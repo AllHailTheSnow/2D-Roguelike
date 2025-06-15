@@ -1,0 +1,47 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d40859132fbb40e479592b0a4b03178d, type: 3}
+  m_Name: Armour Flask
+  m_EditorClassIdentifier: 
+  itemType: 1
+  itemName: Armour Flask
+  icon: {fileID: -1967537564, guid: 50e168c3766042340aeb803536b832f7, type: 3}
+  itemID: f0d21f9dde4f04d43a1a9bc8abe4aeae
+  dropChance: 0
+  equipmentType: 3
+  itemEffects:
+  - {fileID: 11400000, guid: af870a2321d36124bbba035db7955a68, type: 2}
+  - {fileID: 11400000, guid: 81768b549cb413243810e84904d46cdd, type: 2}
+  itemCooldown: 60
+  itemEffectDescription: Increase armour by 12 for 30 seconds - 60s cooldown
+  strength: 0
+  agility: 0
+  intelligence: 0
+  vitality: 0
+  damage: 0
+  critChance: 0
+  critPower: 0
+  health: 0
+  armour: 0
+  evasion: 0
+  magicResistance: 0
+  fireDamage: 0
+  iceDamage: 0
+  lightningDamage: 0
+  elementalChance: 0
+  craftingMaterials:
+  - itemData: {fileID: 11400000, guid: 3df1767d41d640244898e9d22d2588c4, type: 2}
+    stackSize: 2
+  - itemData: {fileID: 11400000, guid: 0fcf5f3cf6d0bc64d867875b5b5bb122, type: 2}
+    stackSize: 1
+  - itemData: {fileID: 11400000, guid: 191d90088fd3e81409f0f2d86f486786, type: 2}
+    stackSize: 1

@@ -1,0 +1,50 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d40859132fbb40e479592b0a4b03178d, type: 3}
+  m_Name: UnderworldSword
+  m_EditorClassIdentifier: 
+  itemType: 1
+  itemName: Underworld Sword
+  icon: {fileID: 281609445, guid: 3ed788e7dc314b949a67b32e8e26a477, type: 3}
+  itemID: ad3b5e7be89e2fd499f1b778da99feca
+  dropChance: 0
+  equipmentType: 0
+  itemEffects:
+  - {fileID: 11400000, guid: acd56256486e81f4caa3f4f270ac8d19, type: 2}
+  - {fileID: 11400000, guid: cde21a9caea6ffb4fb023746ab2f5a1a, type: 2}
+  itemCooldown: 0
+  itemEffectDescription: '[legendary weapon] Chance to launch freezing flame on strike
+    and Damage bonus on successful strike for 2 seconds (stacks)'
+  strength: 5
+  agility: 0
+  intelligence: 0
+  vitality: 0
+  damage: 10
+  critChance: 10
+  critPower: 0
+  health: 0
+  armour: 0
+  evasion: 0
+  magicResistance: 0
+  fireDamage: 0
+  iceDamage: 10
+  lightningDamage: 0
+  elementalChance: 0
+  craftingMaterials:
+  - itemData: {fileID: 11400000, guid: df8bd276cba571342974d9d192b9fb1a, type: 2}
+    stackSize: 2
+  - itemData: {fileID: 11400000, guid: 191d90088fd3e81409f0f2d86f486786, type: 2}
+    stackSize: 2
+  - itemData: {fileID: 11400000, guid: 0dee7b42710d4104cb86b8037725ad15, type: 2}
+    stackSize: 1
+  - itemData: {fileID: 11400000, guid: 0fcf5f3cf6d0bc64d867875b5b5bb122, type: 2}
+    stackSize: 1

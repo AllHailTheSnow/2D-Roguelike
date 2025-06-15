@@ -1,0 +1,44 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d40859132fbb40e479592b0a4b03178d, type: 3}
+  m_Name: LifeDrain
+  m_EditorClassIdentifier: 
+  itemType: 1
+  itemName: Life Drain
+  icon: {fileID: -929386584, guid: 736e0acd82e47d844a605470351df6e3, type: 3}
+  itemID: 6aa5c62a5242dc24dbbe4c5e8d00fa50
+  dropChance: 0
+  equipmentType: 0
+  itemEffects:
+  - {fileID: 11400000, guid: af08d28de4ce56940ab36b643d9862ee, type: 2}
+  itemCooldown: 0
+  itemEffectDescription: '[unique item] Heal 6% HP on hit'
+  strength: 2
+  agility: 2
+  intelligence: 0
+  vitality: 0
+  damage: 5
+  critChance: 15
+  critPower: 0
+  health: 0
+  armour: 0
+  evasion: 0
+  magicResistance: 0
+  fireDamage: 0
+  iceDamage: 0
+  lightningDamage: 0
+  elementalChance: 0
+  craftingMaterials:
+  - itemData: {fileID: 11400000, guid: df8bd276cba571342974d9d192b9fb1a, type: 2}
+    stackSize: 2
+  - itemData: {fileID: 11400000, guid: 191d90088fd3e81409f0f2d86f486786, type: 2}
+    stackSize: 3

@@ -1,0 +1,43 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d40859132fbb40e479592b0a4b03178d, type: 3}
+  m_Name: DamagedSword
+  m_EditorClassIdentifier: 
+  itemType: 1
+  itemName: Damaged Sword
+  icon: {fileID: 931452271, guid: a528be44678c272469fb4c043a7254f8, type: 3}
+  itemID: 842dc2e4b4fb99f43ad3ba39744962b4
+  dropChance: 70
+  equipmentType: 0
+  itemEffects: []
+  itemCooldown: 0
+  itemEffectDescription: 
+  strength: 1
+  agility: 5
+  intelligence: 0
+  vitality: 0
+  damage: 12
+  critChance: 7
+  critPower: 0
+  health: 0
+  armour: 0
+  evasion: 0
+  magicResistance: 0
+  fireDamage: 0
+  iceDamage: 0
+  lightningDamage: 0
+  elementalChance: 0
+  craftingMaterials:
+  - itemData: {fileID: 11400000, guid: 9de27088fc997ab4ea56da5f589c4b8c, type: 2}
+    stackSize: 2
+  - itemData: {fileID: 11400000, guid: df8bd276cba571342974d9d192b9fb1a, type: 2}
+    stackSize: 1
